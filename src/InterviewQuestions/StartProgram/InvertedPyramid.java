@@ -2,11 +2,12 @@ package InterviewQuestions.StartProgram;
 
 public class InvertedPyramid {
     /*
-     *********
+
+    *********
      *******
-     *****
-     ***
-     *
+      *****
+       ***
+        *
 
      */
 

@@ -2,10 +2,10 @@ package InterviewQuestions.StartProgram;
 
 public class Pyramid {
     /*
-       *
-      ***
-     *****
-     *******
+         *
+        ***
+       *****
+      *******
      *********
 
      */
